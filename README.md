@@ -30,6 +30,3 @@ Urmează pașii de mai jos pentru a descărca și rula proiectul local:
      ```
 
 > ⚠️ Asigură-te că ai instalat [Node.js](https://nodejs.org/) (care include și `npm`) pe calculatorul tău.
-
-## 📂 Structura proiectului
-
